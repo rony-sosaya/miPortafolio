@@ -11,7 +11,7 @@
 html,
 body {
 	font-family: 'Montserrat', sans-serif;
-	color: #4d4d4d;
+	color: #4d4d4d; /*cambié el color de fondo de la página*/
 }
 .redes{
 	text-align: center;
@@ -39,7 +39,7 @@ body {
     font-size: 20px;
     transition: .5s;
 }
-
+/*se agregó los iconos de redes sociales y se realizó los cambios respectivos que se observa en .redes a*/
 h1 {
 	font-size: 2.5rem;
 }
@@ -132,7 +132,7 @@ form .form-control {
 	background: radial-gradient(at 10% 10px, #E3E4E5, #E3E4E5, #E3E4E5);
 	height: 100vh;
 }
-* Se realizó-el-cambio-de-color-de-fondo----
+/* Se realizó-el-cambio-de-color-de-fondo----/
 /* Navbar */
 #navbar {
 	color: #fff;
@@ -142,7 +142,7 @@ form .form-control {
 }
 
 #navbar a {
-	color: #4d4d4d;
+	color: #4d4d4d; /*realizé el cambio de color*/
 }
 
 #navbar .logo {
@@ -277,7 +277,7 @@ form .form-control {
 	border-radius: 9px;
 	border-color: 10px #c4c4c4;
 }
-*Se realizó-el-cambio-del-borde-de-la-imagen---
+/*Se realizó-el-cambio-del-borde-de-la-imagen---*/
 
 .inicio .contenido-banner .redes a:hover{
     background-color: #8E9D24;
